@@ -1,0 +1,27 @@
+Yo hablo no español.
+Pedro esta dormido o inactivo.
+Por favor, in welchem Kontext habe ich das gesagt? *eyebrows eyebrows*
+¿Esta Pedriño pequeño?
+Der Peter ist gestorben, heute wacht er wieder auf, denn er ist in den Himmel \n aufgefahren und fragt sich nun, was denn mit seiner Seele passiert sein könnte, roflxd!
+Ich bin ein kleiner Mann, man wundert sich so gar, was denn mit den Wachstumshormonen passiert sein könnte. Doch \n Benni antwortet darauf nur: "Ihr Idioten, ich kann doch \n gar nichts dafür!"
+Keine Ahnung, ich hatte gerade gegessen :) 
+Ich miege dich. Ich dich auch. <-> 
+Ich weiß, ich mich auch.
+Grooooße Tasse. Ich mag viel Tee trinken.
+Oh nein. The return. What is happening!?!?!?1
+Es heißt eigentlich nicht "hübsch", denn "hübsch" ist ein Adjektiv...
+Du müsstest fragen: "Hallo, wie geht's, Hübscher?"
+Aber ich mag das nicht, ich kann mir die Sprache auch nicht aussuchen, lol.
+Ich habe mir diesen Müll nicht überlegt, es waren die Idioten vor mir, die in diesem Land gelebt haben.
+
+#include <iostream>
+
+
+int main(int argc, char** argv) {
+    std::cout << "Hallo, ich bin der Peter\n";
+    while(true) {
+        std::cout << "Endlich wieder mein geliebtes ;" << std::endl;
+        std::cout << "Hallo, ich bin der Peter, schon wieder, aber jetzt in sehr viel häufigerer Ausführung :)\n";
+        
+    }
+}
